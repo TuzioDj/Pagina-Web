@@ -1,0 +1,63 @@
+@charset "utf-8";
+/* CSS Document */
+
+.logo{
+	
+	width: 50px;
+	
+		
+}
+.imagenes{
+	
+	width: 100%;
+}
+.espacios{
+	
+	padding: 40px 0;
+}
+.bg-dark{
+	
+	background-color:#15171A!important;
+}
+footer{
+	
+	padding: 70px;
+	background-color:#15171A;
+	text-align: center;
+}
+.redes{
+	
+	width: 50px;
+	margin-left: 6px;
+	margin-right: 6px;
+}
+footer h1{
+	
+	color:white
+}
+.carousel-caption{
+	
+	position: absolute;
+	top: 30%;
+	left: 0%;
+	width: 100%;
+	text-align: center;
+	text-shadow: 0px 0px 30px black;
+}
+.carousel-control-next{
+	
+	bottom: 17%;
+	opacity: 1;
+}
+.carousel-control-prev{
+	
+	bottom: 17%;
+	opacity: 1;
+}
+.texto-col{
+	
+	text-shadow: 0px 0px 50px black;
+}
+.container {
+  position: relative;
+}
